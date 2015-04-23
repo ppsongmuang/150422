@@ -17,8 +17,8 @@ echo(date("Y-m-d",$t) ." ". date("h:i:sa"));
 
 <?php
 $servername = "localhost";
-$username = "amnaj";
-$password = "pokpongs";
+$username = "test";
+$password = "test";
 $dbname = "smartgarden";
 
 $chgswitch ="";
